@@ -1,5 +1,5 @@
 ---
-title: Bloging lesson 1
+title: Bloging lesson 1 Making a blog
 layout: post
 author: kristopher.rahim
 permalink: /bloging-lesson-1/
@@ -19,16 +19,16 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td></td>
+    <td>Nothing</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To have a Github Pages Static Website</td>
+    <td>Making a blog</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td> </td>
+    <td> Yep</td>
   </tr>
 </table>
 
@@ -41,19 +41,19 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td></td>
+    <td>I Followed the instructions and succeeded in making a website, forking the repository and changing some things to my liking worked the best. (It is also the only way I did it)</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td></td>
+    <td>I need to focus on what actual buttons there are on the page because I managed to actually somehow miss the giant 'COMMIT CHANGES' button. </td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td></td>
+    <td>Use the instructions more and pay attention to what button to press.</td>
   </tr>
 </table>
 
