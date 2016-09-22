@@ -1,5 +1,5 @@
 ---
-title: Bloging lesson 1 Making a blog
+title: Blogging lesson 1 Making a blog
 layout: post
 author: kristopher.rahim
 permalink: /bloging-lesson-1/
