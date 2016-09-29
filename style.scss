@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background-image: url("https://newprovfd.org/wp-content/uploads/2014/02/blackdiamondplate-1024x805.jpg");
+	background-image: url("http://blog.spoongraphics.co.uk/wp-content/uploads/2012/textures/19.jpg");
   font: 18px/1.4 $helvetica;
   color: #cc0000;
 }
@@ -69,11 +69,11 @@ p {
 }
 
 a {
-  color: $blue;
+  color: $red;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: $red;
   }
 }
 
