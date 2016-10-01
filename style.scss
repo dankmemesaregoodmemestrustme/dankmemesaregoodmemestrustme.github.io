@@ -295,14 +295,14 @@ table, th, td {
 }
 table {
     width: 100%;
-	
+    background-color: #4CAF50;
+    color: $white;
 }
 th {
     background-color: #4CAF50;
     color: $white;
     height: 50px;
 }
-
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
