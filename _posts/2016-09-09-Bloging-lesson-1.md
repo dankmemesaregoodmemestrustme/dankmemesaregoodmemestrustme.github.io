@@ -44,7 +44,7 @@ published: true
     <td>I Followed the instructions and succeeded in making a website, forking the repository and changing some things to my liking worked the best. (It is also the only way I did it)</td>
   </tr>
   <tr>
-    <td>What limited my learning? Which habits do I need to work on? </td>
+    <th>What limited my learning? Which habits do I need to work on? </th>
   </tr>
   <tr>
     <td>I need to focus on what actual buttons there are on the page because I managed to actually somehow miss the giant 'COMMIT CHANGES' button. </td>
