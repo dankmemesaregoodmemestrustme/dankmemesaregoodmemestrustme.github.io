@@ -292,9 +292,6 @@ table, th, td {
 }
 table {
     width: 100%;
-    background-color: #f2f2f2;
-    color: $black;
-    tr:nth-child(even) {background-color: #f2f2f2}
 }
 th {
     background-color: #ff0000;
@@ -304,6 +301,9 @@ th {
 th, td {
     padding: 15px;
     text-align: left;
+}
+td {
+    background-color: #f2f2f2;
 }
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
