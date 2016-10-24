@@ -8,3 +8,4 @@ published: true
 ---
 Store Management Spreadsheet
 
+<iframe src="https://docs.google.com/spreadsheets/d/1sJdIWl63-UeW3LdRZK8v0-z6eDgp54iaz6WGFHbuaYM/pubhtml?widget=true&amp;headers=false"></iframe>
