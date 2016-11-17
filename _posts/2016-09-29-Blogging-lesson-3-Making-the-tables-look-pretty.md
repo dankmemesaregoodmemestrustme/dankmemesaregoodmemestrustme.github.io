@@ -28,7 +28,7 @@ published: true
   <tr>
     <th>Did I reach my target? 
 (add details to "Lesson Review")</th>
-    <td> Affirmative cap'n</td>
+    <td> Affirmative cap'n, albiet those tables were quite nice.</td>
   </tr>
 </table>
 
@@ -41,19 +41,19 @@ published: true
     <th>How did I learn? What strategies were effective? </th>
   </tr>
   <tr>
-    <td>I used resources such as 'w3schools' to learn how to make the tables look pretty. Due to the fact that it was the only resource I used, it was both the most, and least effective strategy</td>
+    <td>I used resources such as 'w3schools' to learn how to make the tables look pretty. Due to the fact that it was the only resource I used, it was both the most, and least effective strategy. Keeping track of my table layout and what I want to have happen to them was an extremely useful skill.</td>
   </tr>
   <tr>
     <th>What limited my learning? Which habits do I need to work on? </th>
   </tr>
   <tr>
-    <td>Making decisions faster, knowing that I could come back and edit them later would have sped up my learning</td>
+    <td>Making decisions faster, taking responsible risks, knowing that I could come back and edit them later would have sped up my learning. I need to work on varying my resources.</td>
   </tr>
   <tr>
     <th>What will I change for next time? How will I improve my learning?</th>
   </tr>
   <tr>
-    <td>Next time I will use more varied techniques to try to gain a wider understanding. </td>
+    <td>Next time I will use more varied techniques to try to gain a wider understanding. To do better next time, I will take some responsible riska to benefit my blog in the end.</td>
   </tr>
 </table>
 
