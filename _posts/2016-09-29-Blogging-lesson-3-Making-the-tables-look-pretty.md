@@ -53,7 +53,7 @@ published: true
     <th>What will I change for next time? How will I improve my learning?</th>
   </tr>
   <tr>
-    <td>Next time I will use more varied techniques to try to gain a wider understanding. To do better next time, I will take some responsible riska to benefit my blog in the end.</td>
+    <td>Next time I will use more varied techniques to try to gain a wider understanding. To do better next time, I will take some responsible risks to benefit my blog in the end.</td>
   </tr>
 </table>
 
