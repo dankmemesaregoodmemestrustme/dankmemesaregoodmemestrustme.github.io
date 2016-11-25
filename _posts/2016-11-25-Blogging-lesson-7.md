@@ -50,7 +50,7 @@ published: true
     <td>What limited my learning was the inability to find a good colour scheme quickly along with messing up my table headers. However I did end up fixing this in the long run. The habits I need to work on are Self Control and Thinking flexibly to progress at a faster rate.</td>
   </tr>
   <tr>
-    <td>What will I change for next time? How will I improve my learning?</td>
+    <th>What will I change for next time? How will I improve my learning?</th>
   </tr>
   <tr>
     <td>Next time I will try to use Self control to retain my table headers when adjusting the html code. Next time I will also think more flexibly in order to make decisions faster and better.</td>
