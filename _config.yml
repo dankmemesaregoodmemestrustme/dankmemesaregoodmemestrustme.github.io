@@ -9,25 +9,14 @@ name: Kris Rahim
 description: Qualified Memeologist
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: http://media.salon.com/2016/03/gop-2016-trump-vs-ryan.jpeg.jpg
+avatar: https://s-media-cache-ak0.pinimg.com/originals/4a/da/50/4ada5054e8e73788206eb52fb4c19e60.png
 # Flags below are optional
 #
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
-  email: 
-  facebook:
-  flickr:
-  github: 
-  instagram:
-  linkedin:
-  pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: 
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  
+  
  
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
