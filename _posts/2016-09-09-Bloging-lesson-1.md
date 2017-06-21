@@ -1,5 +1,5 @@
 ---
-title: Blogging lesson 1 Making a blog
+title: Blog 9 
 layout: post
 author: kristopher.rahim
 permalink: /bloging-lesson-1/
@@ -8,52 +8,52 @@ published: true
 ---
 <table>
   <tr>
-    <th>Title</th>
-    <td>Making a blog</td>
-    <th>Date</th>
-    <td>09/09/16</td>
+    <td>Title</td>
+    <td>First blog after a while</td>
+    <td>Date</td>
+    <td>21/06/17</td>
   </tr>
 </table>
 
 
 <table>
   <tr>
-    <th>Starting point:</th>
-    <td>Nothing, nothing that is, but a desire to make a cool looking (and hopefully not rubbish) blog</td>
+    <td>Starting point:</td>
+    <td>Blog with things</td>
   </tr>
   <tr>
-    <th>Target for this lesson?</th>
-    <td>Making a blog</td>
+    <td>Target for this lesson?</td>
+    <td>Making things more aesthetically pleasing</td>
   </tr>
   <tr>
-    <th>Did I reach my target? 
-(add details to "Lesson Review")</th>
-    <td> Yep, I made said blog, and I am excited to see what comes of it</td>
+    <td>Did I reach my target? 
+(add details to "Lesson Review")</td>
+    <td> Yep</td>
   </tr>
 </table>
 
 
 <table>
   <tr>
-    <th>Lesson Review</th>
+    <td>Lesson Review</td>
   </tr>
   <tr>
-    <th>How did I learn? What strategies were effective? </th>
+    <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>I Followed the instructions and succeeded in making a website, forking the repository and changing some things to my liking worked the best. (It is also the only way I did it). I perservered through being a massive idiot at some points, I really have no idea how I messed that up to be honest.</td>
+    <td>I googled some pictures of Trump (one where he's standing on top of a tank that says you’re fired on it!)</td>
   </tr>
   <tr>
-    <th>What limited my learning? Which habits do I need to work on? </th>
+    <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>I need to focus on what actual buttons there are on the page because I managed to actually somehow miss the giant 'COMMIT CHANGES' button. I probably also need to plan out my blogs; I have a problem with planning, useful as it is, I just can't seem to make myself do it. Need to work on that. </td>
+    <td>A certain Bozier distracted me and my ridiculed my picture of Trump. However it was rather funny so I’ll allow it.</td>
   </tr>
   <tr>
-    <th>What will I change for next time? How will I improve my learning?</th>
+    <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>Use the instructions more and pay attention to what button to press. I will improve my learning by making links between blatetently obvious outcomes and somehow missable giant green buttons. I swear in all the movies with giant buttons it's the first thing you see. </td>
+    <td>Amend the text colour, possibly by putting a border around it.</td>
   </tr>
 </table>
 
